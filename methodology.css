@@ -617,8 +617,6 @@ dialog.cc-dlg[open]{margin:auto;inset:0;position:fixed}
 .ti-calls .args{grid-column:2;font-family:"Geist Mono",ui-monospace,monospace;font-size:10.5px;color:var(--color-g2-muted);overflow-wrap:anywhere}
 .ti-v{display:flex;justify-content:space-between;margin-top:8px;padding-top:8px;border-top:1px solid #ffffff0f;font-size:12px}
 .ti-v span{color:var(--color-g2-muted)}.ti-v b{color:#3fcca5;font-family:"Geist Mono",ui-monospace,monospace;font-weight:600}
-.ti-x{margin-top:12px;border:1px dashed #ffffff26;border-radius:10px;padding:16px}
-.ti-x p:last-child{margin-top:6px;font-size:14px;line-height:24px;color:var(--color-g2-muted);max-width:860px}
 .c-rev{background:#9b98a8}
 .nis{font-family:"Geist Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--color-g2-muted);padding:4px 10px;border:1px solid #ffffff1f;border-radius:6px;white-space:nowrap}
 .li-n{margin-top:10px;font-size:12px!important;color:var(--color-g2-muted)}
